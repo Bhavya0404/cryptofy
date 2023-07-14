@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptofy/static/css/main.5ddcdf52.css",
+    "main.js": "/cryptofy/static/js/main.7fc6d8b5.js",
+    "index.html": "/cryptofy/index.html",
+    "main.5ddcdf52.css.map": "/cryptofy/static/css/main.5ddcdf52.css.map",
+    "main.7fc6d8b5.js.map": "/cryptofy/static/js/main.7fc6d8b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ddcdf52.css",
+    "static/js/main.7fc6d8b5.js"
+  ]
+}
