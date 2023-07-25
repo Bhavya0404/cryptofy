@@ -13,7 +13,5 @@
    - On the basis of this it indicates whether the coin is suitable to buy or not.
 
 
-*Due to limited fetch rate of API*
-#### **Click on Crypt Dash to Load the Website**
+![image](https://github.com/Bhavya0404/cryptofy/assets/51115215/e06a229f-c915-41c6-8530-3e66a7d2af80)
 
-![image](https://github.com/Bhavya0404/cryptofy/assets/51115215/e4436fb3-b445-4e43-b0c8-c78d7515a086)
