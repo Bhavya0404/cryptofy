@@ -20,7 +20,7 @@ const App = () => {
       <div className={classes.App}>
         <Header />
         <Routes>
-          <Route path="/cryptofy" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/coins/:id" element={<CoinPage />} />
         </Routes>
       </div>
